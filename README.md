@@ -16,3 +16,7 @@ npx hardhat run scripts/deploy.js
 - npx hardhat node
 - npx hardhat run --network localhost scripts/deploy.js
 - npx hardhat console --network localhost
+
+
+- `npx hardhat node`
+- `npx hardhat run --network localhost ./scripts/index.js
